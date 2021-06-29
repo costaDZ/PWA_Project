@@ -1,8 +1,8 @@
 import React from 'react';
 import { useState } from 'react';
+import './app.css';
 
 import { fetchWeather } from './api/fetchWeather';
-import './app.css';
 
 
 function App() {
